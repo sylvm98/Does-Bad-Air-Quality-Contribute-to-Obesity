@@ -17,8 +17,7 @@ Data matching, Analysis and Modelling process in STATA:
 The scripts used for,
 1. Data Processing: matching county-level data to individual-level data;
 2. Modelling Processing: OLS, RDD, 2SLS;
-3. Robust Check
-4. Certain Graphics and Visualization
+3. Robust Checks, Certain Graphics and Visualization;
 are in .do format and can be run using STATA. 
 
 ------------------------------------------------------------------------------------
